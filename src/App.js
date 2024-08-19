@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import './components/productForms.js'
 
 function App() {
   return (
